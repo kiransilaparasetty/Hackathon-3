@@ -5,6 +5,6 @@ Trade is a tool which can increase economic growth. In current many organization
 
 Goals are :-
 The system will help users conduct auctions securely,
-The users can bid on auctions from the comfort of their homes,
-It helps to save time and money that is wasted on the physical setting,
-The user can also be the bidder.
+the users can bid on auctions from the comfort of their homes,
+it helps to save time and money that is wasted on the physical setting,
+the user can also be the bidder.
